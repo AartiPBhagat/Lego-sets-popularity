@@ -6,3 +6,5 @@ Everyone loves Lego (unless you ever stepped on one). Did you know by the way th
 This project analyzes a fascinating dataset on every single Lego block that has ever been built!
 
 Python Modules used : pandas, matplotlib 
+
+(This work is part of learning python from DataCamp.)
